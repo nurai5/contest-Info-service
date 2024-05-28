@@ -34,7 +34,7 @@ Contest Info Service is a Spring Boot application designed to fetch and parse co
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/contest-info-service.git
+   git clone https://github.com/nurai5/contest-Info-service.git
    cd contest-info-service
 
 2. Create a Telegram bot and obtain the API token from BotFather.
